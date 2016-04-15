@@ -1,7 +1,7 @@
 #!/bin/bash
 # Returns the IP address of a running KVM guest VM
 # Assumes a working KVM/libvirt environment
-#
+# you must be having awk sed etc
 # Install:
 #   Add this bash function to your ~/.bashrc and `source ~/.bashrc`.
 # Usage: 
